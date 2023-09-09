@@ -1,0 +1,37 @@
+.check{
+    width: 15px;
+    height: 15px;
+}
+.close{
+    border: none;
+    color: red;
+    background-color: brown;
+    font-size: 35px;
+}
+.label{
+    color: aliceblue;
+    font-size: 20px;
+}  
+.row{
+    position: relative;
+} 
+.sort-pro,.clear{
+    position: absolute;
+    bottom: 20px;
+}
+.sort-pro{
+    left: 35%;
+    
+}
+.clear{
+    left: 60%;
+    color: chocolate;
+    background-color: aquamarine;
+    border: none;
+    padding: 10px 20px ;
+    font-size: medium;
+    font-weight: 600;
+}
+.line{
+    text-decoration: line-through;
+}
